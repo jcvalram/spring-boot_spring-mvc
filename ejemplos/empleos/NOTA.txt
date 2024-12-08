@@ -1,0 +1,27 @@
+ENUNCIADO DE EJERCICIO FINAL
+############################
+
+Este módulo te toca desarrollarlo a tí. Al realizar toda esta funcionalidad aplicarás todos los conceptos que hemos visto 
+hasta este momento en el curso. En este caso EL INSTRUCTOR podría terminar toda esta funcionalidad explicando en videos 
+la creación de este módulo, sin embargo creo que sería MUY REPETITIVO y se alargaría demasiado el curso (aproximadamente 
+1 hora más escribiendo código que ya vimos a lo largo del curso).
+
+Te explicaré la funcionalidad del módulo de Solicitudes:
+
+En la vista detalle.html vas a mostrar un texto que diga por ejemplo "Regístrese para Aplicar para esta Vacante". 
+Este texto solo deberás mostrarlo a los usuarios anónimos.
+
+En la vista detalle.html después de mostrar los detalles de la Vacante hay un botón HTML llamado Aplicar. 
+Este botón HTML solo deberás mostrarlo para usuarios autenticados. El punto clave de este botón es formar una URL 
+dinámica para que se envíe el idVacante al controlador SolicitudesController.
+
+El diseño del formulario HTML que utilizarás para que un usuario envíe la solicitud será el archivo formSolicitud.html 
+que esta en tu carpeta de la plantilla.
+
+
+NOTA:
+####
+Este enunciado relacionado con las Solicitudes no ha quedado claro por parte del profesor y después de revisar su solución, 
+el fichero listSolicitudes.html no es igual al proporcionado inicialmente. Aparecen más opciones y en el de la solución no
+exiten y además ha incluido unas url que no están configuradas.
+No se ha podido completar este ejercicio por tener información errónea.  
